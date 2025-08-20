@@ -1,0 +1,17 @@
+# Ignorar arquivos do sistema e pastas fora do projeto
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Ignorar pastas específicas do Windows/OneDrive
+Ambiente de Impressão/
+Ambiente de Rede/
+Configurações Locais/
+Cookies/
+Dados de Aplicativos/
+Menu Iniciar/
+Modelos/
+Recent/
+SendTo/
